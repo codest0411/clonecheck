@@ -1,0 +1,5 @@
+{
+  "ignore": ["test/**"],
+  "generated": ["dist/**", "build/**"],
+  "failOn": "error"
+}
